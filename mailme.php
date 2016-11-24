@@ -7,7 +7,7 @@ $transporter   ->setUsername('mtmtpaul@gmail.com');
 $transporter   ->setPassword('paul123456');
 $message = new Swift_Message($transporter);
 $message->setTo(array(
-    "blinkmonster@hotmail.com" => "aa"
+    "arnoldmyint@me.com" => "Arnold Myint"
 ));
 $message->setSubject("This email is sent using Swift Mailer");
 $message->setBody("I hate composer, i hate bcit");

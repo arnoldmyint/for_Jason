@@ -1,0 +1,98 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: arnoldmyint
+ * Date: 2016-11-24
+ * Time: 9:00 AM
+ */
+
+echo md5(file_get_contents('1 - Copy.xz'));
+echo "<br>";
+echo md5(file_get_contents('1 - Copy (2).xz'));
+echo "<br>";
+echo md5(file_get_contents('1 - Copy (3).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (4).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (5).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (6).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (7).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (8).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (9).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (10).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (11).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (12).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (13).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (14).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (15).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (16).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (17).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (18).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (19).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (20).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (21).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (22).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (23).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (24).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (25).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (26).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (27).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (28).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (29).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (30).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (31).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (32).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (33).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (34).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (35).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (36).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (37).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (38).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (39).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (40).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (41).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (42).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (43).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (44).xz'));
+echo "<br>"; 
+echo md5(file_get_contents('1 - Copy (45).xz'));
+echo "<br>"; echo "<br>"; 
