@@ -1,6 +1,12 @@
-<html>
-<body>
-<h1>Welcome</h1>
-<?php echo $name; ?>
-</body>
-</html>
+@extends(layout.basic)
+
+
+@section('title')
+    <title>Index Page</title>
+@stop
+
+@section('rightafterh1')
+    <p>hello world</p>
+@stop
+
+
